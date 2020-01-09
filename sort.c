@@ -23,7 +23,7 @@ void sort_numbers_ascending(int number[], int count)
    for (i = 0; i < count; ++i)
       printf("%d\n", number[i]);
 }
-void main()
+void sortt()
 {
    int i, count, number[20];
  
