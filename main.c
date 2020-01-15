@@ -1,6 +1,7 @@
 void  main ()
 {
-	bigg ();
+bigg ();
+
 pal();
 revv();
 sortt();
