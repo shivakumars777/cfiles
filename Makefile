@@ -4,6 +4,7 @@ big3.o:big3.c
 	gcc -c big3.c
 palin.o:palin.c
 	gcc -c palin.c
+	
 rev.o:rev.c
 	gcc -c rev.c
 sort.o:sort.c
