@@ -9,6 +9,5 @@ rev.o:rev.c
 	gcc -c rev.c
 sort.o:sort.c
 	gcc -c sort.c
-
 main.o:main.c
 	gcc -c main.c
